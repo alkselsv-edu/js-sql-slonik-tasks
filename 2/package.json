@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "js-sql-slonik-task",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "slonik": "^49.10.7"
+  }
+}
